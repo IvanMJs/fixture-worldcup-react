@@ -1,0 +1,261 @@
+[
+  {
+    "id": "1",
+    "title": "Qatar",
+    "dt": "Scaloni",
+    "jugadores": "messi, di-maria, icardi",
+    "copas": 4,
+    "grupo": "GRUPO A"
+  },
+  {
+    "id": "2",
+    "title": "Ecuador",
+    "dt": "Scaloni",
+    "jugadores": "messi, di-maria, icardi",
+    "copas": 4,
+    "grupo": "GRUPO A"
+  },
+  {
+    "id": "3",
+    "title": "Senegal",
+    "dt": 3,
+    "jugadores": "Nasd",
+    "copas": 4,
+    "grupo": "GRUPO A"
+  },
+  {
+    "id": "4",
+    "title": "Paises Bajos",
+    "dt": "Scaloni",
+    "jugadores": "messi, di-maria, icardi",
+    "copas": 4,
+    "grupo": "GRUPO A"
+  },
+
+  {
+    "id": "5",
+    "title": "Inglaterra",
+    "dt": "Scaloni",
+    "jugadores": "messi, di-maria, icardi",
+    "copas": 4,
+    "grupo": "GRUPO B"
+  },
+  {
+    "id": "6",
+    "title": "Irán",
+    "dt": "Scaloni",
+    "jugadores": "messi, di-maria, icardi",
+    "copas": 4,
+    "grupo": "GRUPO B"
+  },
+  {
+    "id": "7",
+    "title": "Estados Unidos",
+    "dt": 3,
+    "jugadores": "Nasd",
+    "copas": 4,
+    "grupo": "GRUPO B"
+  },
+  {
+    "id": "8",
+    "title": "Gales",
+    "dt": "Scaloni",
+    "jugadores": "messi, di-maria, icardi",
+    "copas": 4,
+    "grupo": "GRUPO B"
+  },
+  {
+    "titleTable": "GRUPO C",
+    "id": "9",
+    "title": "Argentina",
+    "dt": "Scaloni",
+    "jugadores": "messi, di-maria, icardi",
+    "copas": 4,
+    "grupo": "GRUPO C"
+  },
+  {
+    "id": "10",
+    "title": "Arabia Saudita",
+    "dt": "Scaloni",
+    "jugadores": "messi, di-maria, icardi",
+    "copas": 4,
+    "grupo": "GRUPO C"
+  },
+  {
+    "id": "11",
+    "title": "México",
+    "dt": 3,
+    "jugadores": "Nasd",
+    "copas": 4,
+    "grupo": "GRUPO C"
+  },
+  {
+    "id": "12",
+    "title": "Polonia",
+    "dt": "Scaloni",
+    "jugadores": "messi, di-maria, icardi",
+    "copas": 4,
+    "grupo": "GRUPO C"
+  },
+  {
+    "titleTable": "GRUPO D",
+    "id": "13",
+    "title": "Francia",
+    "dt": "Scaloni",
+    "jugadores": "messi, di-maria, icardi",
+    "copas": 4,
+    "grupo": "GRUPO D"
+  },
+  {
+    "id": "14",
+    "title": "Australia ",
+    "dt": "Scaloni",
+    "jugadores": "messi, di-maria, icardi",
+    "copas": 4,
+    "grupo": "GRUPO D"
+  },
+  {
+    "id": "15",
+    "title": "Dinamarca",
+    "dt": 3,
+    "jugadores": "Nasd",
+    "copas": 4,
+    "grupo": "GRUPO D"
+  },
+  {
+    "id": "16",
+    "title": "Túnez",
+    "dt": "Scaloni",
+    "jugadores": "messi, di-maria, icardi",
+    "copas": 4,
+    "grupo": "GRUPO D"
+  },
+  {
+    "id": "17",
+    "title": "España",
+    "dt": "Scaloni",
+    "jugadores": "messi, di-maria, icardi",
+    "copas": 4,
+    "grupo": "GRUPO E"
+  },
+  {
+    "id": "18",
+    "title": "Costa Rica",
+    "dt": "Scaloni",
+    "jugadores": "messi, di-maria, icardi",
+    "copas": 4,
+    "grupo": "GRUPO E"
+  },
+  {
+    "id": "19",
+    "title": "Alemania",
+    "dt": 3,
+    "jugadores": "Nasd",
+    "copas": 4,
+    "grupo": "GRUPO E"
+  },
+  {
+    "id": "20",
+    "title": "Japón",
+    "dt": "Scaloni",
+    "jugadores": "messi, di-maria, icardi",
+    "copas": 4,
+    "grupo": "GRUPO E"
+  },
+  {
+    "id": "21",
+    "title": "Bélgica",
+    "dt": "Scaloni",
+    "jugadores": "messi, di-maria, icardi",
+    "copas": 4,
+    "grupo": "GRUPO F"
+  },
+  {
+    "id": "22",
+    "title": "Canadá",
+    "dt": "Scaloni",
+    "jugadores": "messi, di-maria, icardi",
+    "copas": 4,
+    "grupo": "GRUPO F"
+  },
+  {
+    "id": "23",
+    "title": "Marruecos",
+    "dt": 3,
+    "jugadores": "Nasd",
+    "copas": 4,
+    "grupo": "GRUPO F"
+  },
+  {
+    "id": "24",
+    "title": "Croacia",
+    "dt": "Scaloni",
+    "jugadores": "messi, di-maria, icardi",
+    "copas": 4,
+    "grupo": "GRUPO F"
+  },
+  {
+    "id": "25",
+    "title": "Brasil",
+    "dt": "Scaloni",
+    "jugadores": "messi, di-maria, icardi",
+    "copas": 4,
+    "grupo": "GRUPO G"
+  },
+  {
+    "id": "26",
+    "title": "Serbia",
+    "dt": "Scaloni",
+    "jugadores": "messi, di-maria, icardi",
+    "copas": 4,
+    "grupo": "GRUPO G"
+  },
+  {
+    "id": "27",
+    "title": "Suiza",
+    "dt": 3,
+    "jugadores": "Nasd",
+    "copas": 4,
+    "grupo": "GRUPO G"
+  },
+  {
+    "id": "28",
+    "title": "Camerún",
+    "dt": "Scaloni",
+    "jugadores": "messi, di-maria, icardi",
+    "copas": 4,
+    "grupo": "GRUPO G"
+  },
+  {
+    "id": "29",
+    "title": "Portugal",
+    "dt": "Scaloni",
+    "jugadores": "messi, di-maria, icardi",
+    "copas": 4,
+    "grupo": "GRUPO H"
+  },
+  {
+    "id": "30",
+    "title": "Ghana",
+    "dt": "Scaloni",
+    "jugadores": "messi, di-maria, icardi",
+    "copas": 4,
+    "grupo": "GRUPO H"
+  },
+  {
+    "id": "31",
+    "title": "Uruguay",
+    "dt": 3,
+    "jugadores": "Nasd",
+    "copas": 4,
+    "grupo": "GRUPO H"
+  },
+  {
+    "id": "32",
+    "title": "Corea del Sur",
+    "dt": "Scaloni",
+    "jugadores": "messi, di-maria, icardi",
+    "copas": 4,
+    "grupo": "GRUPO H"
+  }
+]
