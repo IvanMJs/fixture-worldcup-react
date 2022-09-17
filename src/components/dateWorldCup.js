@@ -25,9 +25,11 @@ const DateWorldCup = ({ fechas }) => {
   return (
     <Flex
       borderRadius={"2%"}
-      mb={"5%"}
       bg={"#FECD45"}
+      mb={"5%"}
       mt={"5%"}
+      ml={"2%"}
+      mr={"2%"}
       display="grid"
       justifyItems={"center"}
       textAlign={"center"}

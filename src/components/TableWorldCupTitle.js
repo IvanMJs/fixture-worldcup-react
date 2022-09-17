@@ -1,4 +1,5 @@
 import { Thead, Tr, Th } from "@chakra-ui/react";
+
 import React from "react";
 
 export default function TableWorldCupTitle({ title}) {
